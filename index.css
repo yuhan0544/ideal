@@ -1,0 +1,35 @@
+#maleActor > img {
+    margin: 10px;
+}
+
+#mainWorld {
+    display: inline-flex;
+    justify-content: center;
+    width: 250px;
+    height: 310px;
+    border: solid black 2px;
+    background-color: white;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#worldCupName {
+    display: flex;
+    justify-content: center;
+}
+
+#imgName {
+    display: flex;
+    justify-content: center;
+}
+
+#imgName > span {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#worldCupName {
+    margin-top: 10px;
+}
